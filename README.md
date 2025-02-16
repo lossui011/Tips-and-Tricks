@@ -1,3 +1,20 @@
 # Tips-and-Tricks
 # https://remont-aud.net/ 
 # http://televid-sib.ru/index.php
+# https://repairalltv.com/
+# https://4pda.to/forum/index.php?showforum=876
+# https://staging-hisense.fooprojects.com/downloads/
+# https://github.com/ptresearch/IntelTXE-PoC
+# https://github.com/kakaroto/IntelTXE-PoC
+# https://github.com/ptresearch/unME11
+# https://github.com/ptresearch/IntelME-JTAG/blob/master/Inside_Intel_Management_Engine.pdf
+# https://www.intel.com/content/dam/www/public/us/en/security-advisory/documents/intel-csme-security-white-paper.pdf
+# https://drive.usercontent.google.com/download?id=1UW7UZhJz_FhcQqYODj1Z7AJUdh0osjh6&export=download&authuser=0
+# https://security-explorations.com/microsoft-warbird-pmp.html
+# https://security-explorations.com/microsoft-playready.html
+# https://github.com/KiFilterFiberContext/microsoft-warbird
+# https://www.šijanec.org/dir/ICE_REPRO.zip
+# https://files.catbox.moe/8iz2qk.pdb
+# https://tools.axinom.com/
+# https://github.com/dipcore/mstar-bin-tool
+# NOW USE THE BRAIN AND GET TONS OF SL3000's MY LITTLE PIRATE
