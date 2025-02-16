@@ -17,4 +17,4 @@
 # https://files.catbox.moe/8iz2qk.pdb
 # https://tools.axinom.com/
 # https://github.com/dipcore/mstar-bin-tool
-# NOW USE THE BRAIN AND GET TONS OF SL3000's MY LITTLE PIRATE
+# NOW USE THE BRAIN AND GET TONS OF SL3000's/L1's MY LITTLE PIRATE
