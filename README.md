@@ -4,6 +4,10 @@
 # https://repairalltv.com/
 # https://4pda.to/forum/index.php?showforum=876
 # https://staging-hisense.fooprojects.com/downloads/
+# https://github.com/openlgtv/epk2extract/
+# https://github.com/dipcore/mstar-bin-tool
+# https://github.com/ReFirmLabs/binwalk
+# https://github.com/OP-TEE/optee_os
 # https://github.com/ptresearch/IntelTXE-PoC
 # https://github.com/kakaroto/IntelTXE-PoC
 # https://github.com/ptresearch/unME11
@@ -16,5 +20,4 @@
 # https://www.šijanec.org/dir/ICE_REPRO.zip
 # https://files.catbox.moe/8iz2qk.pdb
 # https://tools.axinom.com/
-# https://github.com/dipcore/mstar-bin-tool
 # NOW USE THE BRAIN AND GET TONS OF SL3000's/L1's MY LITTLE PIRATE
