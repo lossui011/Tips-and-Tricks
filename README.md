@@ -1,6 +1,8 @@
 # Tips-and-Tricks
 # https://remont-aud.net/ 
 # http://televid-sib.ru/index.php
+# THESE TWO ABOVE SITE ARE THE MAIN SOURCE FOR ALL EMMC DUMPS THAT HELP PIRATES TO GET JUICY UHD TV L1s, PR SL3000s
+# GET A DUMP NOW, WHAT YOU WAIT, ABUSE THE L1s BECAUSE OTHERS ENJOY THE JUCIY L1s RIGHT NOW
 # https://repairalltv.com/
 # https://4pda.to/forum/index.php?showforum=876
 # https://staging-hisense.fooprojects.com/downloads/
