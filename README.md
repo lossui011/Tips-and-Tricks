@@ -6,6 +6,13 @@
 # https://repairalltv.com/
 # https://4pda.to/forum/index.php?showforum=876
 # https://staging-hisense.fooprojects.com/downloads/
+# https://hex-rays.com/ida-pro
+# https://github.com/NationalSecurityAgency/ghidra/releases
+# https://mh-nexus.de/en/downloads.php?product=HxD20
+# https://www.7-zip.org/download.html
+# https://dogbolt.org/
+# https://notepad-plus-plus.org/downloads/v8.7.7/
+# https://github.com/unicorn-engine/unicorn
 # https://github.com/openlgtv/epk2extract/
 # https://github.com/dipcore/mstar-bin-tool
 # https://github.com/ReFirmLabs/binwalk
